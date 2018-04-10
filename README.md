@@ -5,7 +5,9 @@ This is a web server hosted by Amazon Lightsail that serves my **[Catalog App](h
 ### Connection Information
 
 **IP Address:** 18.222.61.145
+
 **SSH Port:** 2200
+
 **URL:** [http://18.222.61.145.xip.io/](http://18.222.61.145.xip.io/)
 
 ### Software Resources
