@@ -12,11 +12,11 @@ This is a web server hosted by Amazon Lightsail that serves my **[Catalog App](h
 
 ### Software Resources
 
-Flask
-SqlAlchemy
-Sqlite 3
-Apache 2
-mod_wsgi
+* Flask
+* SqlAlchemy
+* Sqlite 3
+* Apache 2
+* mod_wsgi
 
 ### How to Use
 
