@@ -20,7 +20,7 @@ This is a web server hosted by Amazon Lightsail that serves my **[Catalog App](h
 
 ### Third-Party Resources
 
-PuTTY SSH Client was used to connect to the server. SSH keypairs were generated using the ssh-keygen command in the Linux termninal. puttygen from PuTTY Tools was used to convert the keys from OpenSSH format to the .ppk format.
+PuTTY SSH Client was used to connect to the server. SSH keypairs were generated using the ssh-keygen command in the Linux terminal. puttygen from PuTTY Tools was used to convert the keys from OpenSSH format to the .ppk format.
 
 ### Summary of Configuration Changes Made
 
