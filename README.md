@@ -29,3 +29,6 @@ The grader user account was added to the server and given sudo privileges. Serve
 ### How to Use
 
 Open the [URL](http://18.222.61.145.xip.io/) in your web browser. **[Catalog App](https://github.com/pauloflah/Catalog-App/)** is a web application that provides a catalog of items that users can modify with their Google+ or Facebook accounts.
+
+### References
+[Google's mod_wsgi Configuration Guide](https://code.google.com/archive/p/modwsgi/wikis/QuickConfigurationGuide.wiki)
